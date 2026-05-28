@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Ride",
+  "description": "Real-time team location tracking and route safety for motorcycle trips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
